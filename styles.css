@@ -5,13 +5,6 @@ body{
   color: #40514E;
 }
 
-.bottom-cloud{
-   width: 15%;
-   position: absolute;
-   left: 300px;
-   bottom: 250px;
-}
-
 .bc{
   background-color: #BFFFF0;
   
@@ -85,14 +78,6 @@ hr{
   background-color: #B8FFF9;
   position: relative;
   padding-top: 100px;
-}
-
-
-.top-cloud{
-   width: 15%;
-   position: absolute;
-   top: 50px;
-   right: 300px;
 }
 
 .skill-row{
