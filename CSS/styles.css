@@ -1,0 +1,110 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+.bottom-cloud{
+   width: 15%;
+   position: absolute;
+   left: 300px;
+   bottom: 250px;
+}
+
+.bc{
+  background-color: #BFFFF0;
+  
+}
+
+.btn {
+  background: #9ADCFF;
+  background-image: -webkit-linear-gradient(top, #9ADCFF, #2980b9);
+  background-image: -moz-linear-gradient(top, #9ADCFF, #2980b9);
+  background-image: -ms-linear-gradient(top, #9ADCFF, #2980b9);
+  background-image: -o-linear-gradient(top, #9ADCFF, #2980b9);
+  background-image: linear-gradient(to bottom, #9ADCFF, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FFF89A;
+  background-image: -webkit-linear-gradient(top, #FFF89A, #FFB2A6);
+  background-image: -moz-linear-gradient(top, #FFF89A, #FFB2A6);
+  background-image: -ms-linear-gradient(top, #FFF89A, #FFB2A6);
+  background-image: -o-linear-gradient(top, #FFF89A, #FFB2A6);
+  background-image: linear-gradient(to bottom, #FFF89A, #FFB2A6);
+  text-decoration: none;
+}
+
+.div-pic{
+  width: 300px;
+  margin: 50px auto 0 auto;
+}
+
+.earth-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 625%;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 200%;
+  color: #42C2FF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #00B4D8;
+}
+
+hr{
+  border: dotted #051367 6px;
+  border-bottom: None;
+  width: 5%;
+  margin: 100px auto;
+}
+.tc {
+  background-color: #B8FFF9;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.top-cloud{
+   width: 15%;
+   position: absolute;
+   top: 50px;
+   right: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.sun-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
